@@ -1,4 +1,4 @@
-# 🏆 Maidanam – Tamil Football League Tracker
+# ⚽️ Maidanam – Tamil Football League Tracker
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -91,7 +91,7 @@ For that reason, the code is not public to protect the product's intellectual pr
 ---
 
 <details>
-<summary>📸 Demo & Screenshots</summary>
+<summary>📸 **Demo & Screenshots**</summary>
 
 ### 🎥 Video Demo
 Available upon request.  
