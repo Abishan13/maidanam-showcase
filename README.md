@@ -1,4 +1,4 @@
-# ⚽️ Maidanam – Tamil Football League Tracker
+# 🏆 Maidanam – Tamil Football League Tracker
 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -98,7 +98,11 @@ Available upon request.
 📩 Contact me for a private demo.
 
 ### 📱 App Screenshots
-*(Screenshots)*
+
+<img src="https://github.com/user-attachments/assets/f452afd1-b327-4f70-a5ee-98c2071d3a97" width="250" /> 
+<img src="https://github.com/user-attachments/assets/3a8a9e53-a3b2-4f96-afeb-fed85d7ce25e" width="250" />
+<img src="https://github.com/user-attachments/assets/7ebcb304-80d4-49e0-bebd-4d179afe70c5" width="250" />
+<img src="https://github.com/user-attachments/assets/73d1f78a-94b6-4fe2-844a-d08bc3f8dc21" width="250" />
 
 </details>
 
@@ -125,4 +129,3 @@ For demo access, more information, or collaboration:
 > *A real-time, mobile-first application connecting the Tamil football community in France — built with care, precision, and a deep love for the game.*
 
 ---
-
