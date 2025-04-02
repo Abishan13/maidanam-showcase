@@ -7,6 +7,17 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f452afd1-b327-4f70-a5ee-98c2071d3a97" width="250" /> 
+  <img src="https://github.com/user-attachments/assets/3a8a9e53-a3b2-4f96-afeb-fed85d7ce25e" width="250" />
+  <img src="https://github.com/user-attachments/assets/7ebcb304-80d4-49e0-bebd-4d179afe70c5" width="250" />
+  <img src="https://github.com/user-attachments/assets/73d1f78a-94b6-4fe2-844a-d08bc3f8dc21" width="250" />
+</p>
+
+---
+
 ## 🚀 About the Project
 
 **Maidanam** is a mobile application built with **React Native & Firebase**, designed to help the Tamil community in France follow the scores, rankings, and statistics of the **Tamil Football League**.  
@@ -90,24 +101,6 @@ For that reason, the code is not public to protect the product's intellectual pr
 
 ---
 
-<details>
-<summary>📸 **Demo & Screenshots**</summary>
-
-### 🎥 Video Demo
-Available upon request.  
-📩 Contact me for a private demo.
-
-### 📱 App Screenshots
-
-<img src="https://github.com/user-attachments/assets/f452afd1-b327-4f70-a5ee-98c2071d3a97" width="250" /> 
-<img src="https://github.com/user-attachments/assets/3a8a9e53-a3b2-4f96-afeb-fed85d7ce25e" width="250" />
-<img src="https://github.com/user-attachments/assets/7ebcb304-80d4-49e0-bebd-4d179afe70c5" width="250" />
-<img src="https://github.com/user-attachments/assets/73d1f78a-94b6-4fe2-844a-d08bc3f8dc21" width="250" />
-
-</details>
-
----
-
 ## 🚧 Upcoming Features
 
 - 🏅 Multi-League Support
@@ -120,7 +113,7 @@ Available upon request.
 For demo access, more information, or collaboration:
 
 - [LinkedIn – Abishan Arulneethan](https://www.linkedin.com/in/abishan-arulneethan)
-- arul.abishanpro@gmail.com
+- 📧 arul.abishanpro@gmail.com
 
 ---
 
