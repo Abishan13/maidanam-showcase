@@ -114,8 +114,9 @@ For that reason, the code is not public to protect the product's intellectual pr
 
 For demo access, more information, or collaboration:
 
-- [LinkedIn – Abishan Arulneethan](https://www.linkedin.com/in/abishan-arulneethan)
-- 📧 arul.abishanpro@gmail.com
+- 🌐 [Portfolio – www.arulabishan.com](https://www.arulabishan.com/)
+- 🌍 [LinkedIn – Abishan Arulneethan](https://www.linkedin.com/in/abishan-arulneethan)
+- ✉️ arul.abishanpro@gmail.com
 
 ---
 
