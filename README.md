@@ -7,6 +7,10 @@
 
 ---
 
+⚠️ **This repository is a showcase. The source code is private but available for review upon request.**
+
+---
+
 ## 📸 Screenshots
 
 <p align="center">
@@ -99,7 +103,8 @@ It is also part of my personal SaaS journey, designed to scale and potentially e
 
 ⚠️ **The source code is private.**  
 This project is intended to grow into a SaaS product and may be commercialized.  
-For that reason, the code is not public to protect the product's intellectual property.
+For that reason, the code is not public to protect the product's intellectual property.  
+However, the code can be shared privately upon request for professional purposes.
 
 ---
 
@@ -107,6 +112,25 @@ For that reason, the code is not public to protect the product's intellectual pr
 
 - 🏅 Multi-League Support
 - 📊 Advanced Player & Match Statistics
+
+---
+
+## 🎓 What I Learned & Challenges
+
+Throughout the development of **Maidanam**, I had the opportunity to:
+
+- Design a complete **real-time sports tracking system**
+- Implement **role-based authentication** and secure data access
+- Optimize **real-time data listeners** with Firestore for live match updates
+- Manage **push notifications** effectively across platforms
+- Build a modular and scalable architecture with **React Context API & Custom Hooks**
+- Handle complex UI flows & animations in **React Native**
+- Ensure a seamless user experience with **dynamic theming** and proper state management
+
+The biggest challenges were:
+- Managing real-time data sync without performance issues
+- Designing an intuitive UX for both casual users and admin roles
+- Balancing **user privacy** and admin features within a single app
 
 ---
 
